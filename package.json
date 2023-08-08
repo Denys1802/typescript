@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denys1802/typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denys1802/typescript/issues"
+  },
+  "homepage": "https://github.com/Denys1802/typescript#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.0"
+  },
+  "dependencies": {
+    "@types/koa": "^2.13.8"
+  }
+}
