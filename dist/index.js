@@ -1,5 +1,5 @@
 import { concatenation } from "./concatenation";
-import { merge } from "./generics";
+import { tuple } from "./tuple";
 const button = document.querySelector("button");
 const input = document.querySelector("input");
 if (button && input) {
