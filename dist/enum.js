@@ -18,5 +18,14 @@ if (person.role === Role.ADMIN) {
 // for (let item in Test) {
 // console.log(item);
 // 	}
+// enum HttpCodes{
+// 	OK = 200,
+// 	BadRequest = 400,
+// 	Unauthorized = 401
+// }
+// function respond(status: HttpCodes) {
+// 	return HttpCodes
+// }
+// respond(HttpCodes.OK)
 export { person };
 //# sourceMappingURL=enum.js.map

@@ -26,4 +26,16 @@ console.log(Role.ADMIN);
 		
 // 	}
 
+// enum HttpCodes{
+// 	OK = 200,
+// 	BadRequest = 400,
+// 	Unauthorized = 401
+// }
+
+// function respond(status: HttpCodes) {
+// 	return HttpCodes
+// }
+
+// respond(HttpCodes.OK)
+
 export{person}
